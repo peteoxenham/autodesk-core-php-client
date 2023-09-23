@@ -1,5 +1,5 @@
 {
-    "name": "autodesk/core",
+    "name": "peteoxenham/autodesk-core-php-client",
     "description": "",
     "keywords": [
         "php",
@@ -19,7 +19,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "^7.2"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0",
